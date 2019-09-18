@@ -1,0 +1,31 @@
+
+.note-col {
+  background-color: #ffef97;
+  word-wrap: break-word;
+  margin: 5px 0px 25px 60px;
+  box-shadow: 5px 5px 5px rgba(22, 22, 22, 0.7);
+  height: 245px;
+}
+
+.note-col:hover {
+  background-color: #ffeb7e;
+}
+
+.note-icon {
+  color:  #585858;
+}
+
+.note-view {
+  max-height: 60vh;
+  word-wrap: break-word;
+}
+
+.note-editor {
+  max-height: 35vh;
+  overflow: auto;
+}
+
+.btn-note {
+  background-color: #ffe03a;
+  color:  #585858;
+}
